@@ -1,10 +1,10 @@
 ## Data Bricks Project 5 FRQ
 
-To start:
+**To start:**
 
 Go to https://community.cloud.databricks.com/ and create a free account.
 
-The video of how to run FRQ for shakespeare.txt using stop words is here:
+**The video of how to run FRQ for shakespeare.txt using stop words is here:**
   
 https://usc.zoom.us/rec/share/oFU6vLSfy1A6pYBSaW2K6q0KXNNgRA6KbzmcFPCAeUQmW9ikOqc_Vb_XGrgMP4iG.LnmQ0hb2ecf0j1PL?startTime=1626377831000
   
