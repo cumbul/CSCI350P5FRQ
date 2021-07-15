@@ -20,7 +20,7 @@ https://usc.zoom.us/rec/share/oFU6vLSfy1A6pYBSaW2K6q0KXNNgRA6KbzmcFPCAeUQmW9ikOq
 
 	`display(dataframename.sort("word"))`
 
-and change dataframename with data frame you use.
+	and change *dataframename* with data frame you use.
 
 5. Download preview results as shown here:
 
