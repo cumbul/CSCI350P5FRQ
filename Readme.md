@@ -18,7 +18,7 @@ https://usc.zoom.us/rec/share/oFU6vLSfy1A6pYBSaW2K6q0KXNNgRA6KbzmcFPCAeUQmW9ikOq
 
 4. Use 
 
-	display(dataframename.sort("word"))
+	`display(dataframename.sort("word"))`
 
 and change dataframename with data frame you use.
 
